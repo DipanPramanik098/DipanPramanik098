@@ -14,7 +14,7 @@
 
 - 🤹‍♂️ I am a `2nd Year Student` at `Netaji Subhash Engineering College`.
 
-- 🤹‍♂️ I’m currently learning `Data Structure` & `Web Development`
+- 🤹‍♂️ I’m currently learning `Data Structure` & `Web Development`.
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT,C++.**
 
