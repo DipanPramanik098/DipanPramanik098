@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Dipan Pramanik</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Dipan Pramanik</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%ffffff&size=25&weight=800&center=true&vCenter=true&width=600&height=70&lines=Coder;Web+Developer;CSE+Student"></a>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="center">CSE student passionate about coding, exploring new technologies, and building innovative solutions.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
@@ -7,13 +12,15 @@
 
 <p align="left"> <a href="https://twitter.com/dipan_pramanik7" target="blank"><img src="https://img.shields.io/twitter/follow/dipan_pramanik7?logo=twitter&style=for-the-badge" alt="dipan_pramanik7" /></a> </p>
 
-- 🏫 I’m currently learning **Data Structure & Web Development**
+- 🤹‍♂️ I am a `2nd Year Student` at `Netaji Subhash Engineering College`.
+
+- 🤹‍♂️ I’m currently learning `Data Structure` & `Web Development`
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT,C++.**
 
 - 📫 How to reach me **myselfdipan6@gmail.com**
 
-- ⚡ Fun fact **Coding: Where a missing comma can cause global chaos online😂**
+- ⚡ Fun fact `Coding: Where a missing comma can cause global chaos online😂`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
