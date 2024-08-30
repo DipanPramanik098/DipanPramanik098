@@ -28,7 +28,7 @@
 <a href="https://www.linkedin.com/in/dipan-pramanik-3b929a25b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dipan-pramanik-3b929a25b/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mr._ambivert_99/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr._introvert_99/" height="30" width="40" /></a>
 <a href="https://leetcode.com/Dipan_Pramanik/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dipan_pramanik/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/myselfdmf1g" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/myselfdmf1g" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/myselfdmf1g/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/myselfdmf1g" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
