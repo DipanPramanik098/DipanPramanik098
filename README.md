@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanpramanik098&label=Profile%20views&color=0e75b6&style=flat" alt="dipanpramanik098" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dipan_pramanik7" target="blank"><img src="https://img.shields.io/twitter/follow/dipan_pramanik7?logo=twitter&style=for-the-badge" alt="dipan_pramanik7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dipan_pramanik7" target="_blank"><img src="https://img.shields.io/twitter/follow/dipan_pramanik7?logo=twitter&style=for-the-badge" alt="dipan_pramanik7" /></a> </p>
 
 - 🤹‍♂️ I am a `3rd Year Student` at `Netaji Subhash Engineering College`.
 
