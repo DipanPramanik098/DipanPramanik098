@@ -16,7 +16,7 @@
 
 - 🤹‍♂️ I’m currently learning `Data Structure` & `Web Development`.
 
-- 💬 Ask me about **`HTML, CSS, tailwind, JAVASCRIPT,Java,DSA`.**
+- 💬 Ask me about **`HTML, CSS, tailwind, JAVASCRIPT,C++,DSA`.**
 
 - 📫 How to reach me **myselfdipan6@gmail.com**
 
