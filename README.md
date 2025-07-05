@@ -85,7 +85,7 @@
   <a href="https://auth.geeksforgeeks.org/user/myselfdmf1g" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
   </a>
-  <a href="https://www.codingninjas.com/studio/profile/Dipan_Pramanik" target="_blank">
+  <a href="[https://www.codingninjas.com/studio/profile/Dipan_Pramanik](https://www.naukri.com/code360/profile/Dipan)" target="_blank">
     <img src="https://img.shields.io/badge/Coding_Ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Code Studio"/>
   </a>
 </p>
