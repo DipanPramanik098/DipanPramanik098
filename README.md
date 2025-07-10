@@ -44,6 +44,7 @@
 <p align="center">
   <a href="https://drive.google.com/file/d/your-resume-id/view?usp=sharing" target="_blank">📄 Resume</a> •
   <a href="https://dipanpramanik.vercel.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/dipan-pramanik-3b929a25b/" target="_blank">LinkedIn</a> •
   <a href="https://leetcode.com/Dipan_Pramanik/" target="_blank">🧠 LeetCode</a> •
   <a href="https://auth.geeksforgeeks.org/user/myselfdmf1g" target="_blank">📚 GFG</a>
 </p>
