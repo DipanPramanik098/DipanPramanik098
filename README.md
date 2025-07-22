@@ -14,7 +14,7 @@
 
 - 🎓 Final-year Computer Science student at `Netaji Subhash Engineering College`.  
 - 💡 Passionate about building responsive web applications and solving complex problems.  
-- 🌱 Currently mastering **React Concepts** and **System Design**.  
+- 🌱 Currently mastering **Backend Development** and **Machine Learning**.  
 - ⚡ Fun fact: I once fixed a bug in my dream and it actually worked when I woke up!  
 - ✉️ Reach me at: [myselfdipan6@gmail.com](mailto:myselfdipan6@gmail.com)  
 
