@@ -80,13 +80,13 @@
 ## 🏆 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/Dipan_Pramanik/" target="_blank">
+  <a href="00" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/myselfdmf1g" target="_blank">
+  <a href="0" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
   </a>
-  <a href="https://www.naukri.com/code360/profile/Dipan" target="_blank">
+  <a href="h" target="_blank">
     <img src="https://img.shields.io/badge/Coding_Ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Code Studio"/>
   </a>
 </p>
