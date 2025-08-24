@@ -45,7 +45,7 @@
   <a href="https://drive.google.com/file/d/your-resume-id/view?usp=sharing" target="_blank">📄 Resume</a> •
   <a href="https://dipanpramanik.vercel.app/" target="_blank">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/dipan-pramanik-3b929a25b/" target="_blank">LinkedIn</a> •
-  <a href="https://leetcode.com/Dipan_Pramanik/" target="_blank">🧠 LeetCode</a> •
+  <a href="https://leetcode.com/u/_Dipan_/" target="_blank">🧠 LeetCode</a> •
   <a href="https://auth.geeksforgeeks.org/user/myselfdmf1g" target="_blank">📚 GFG</a>
 </p>
 
@@ -80,13 +80,13 @@
 ## 🏆 Coding Profiles
 
 <p align="center">
-  <a href="00" target="_blank">
+  <a href="https://leetcode.com/u/_Dipan_/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
   </a>
-  <a href="0" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/myselfdmf1g/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
   </a>
-  <a href="h" target="_blank">
+  <a href="https://www.naukri.com/code360/profile/Dipan" target="_blank">
     <img src="https://img.shields.io/badge/Coding_Ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Code Studio"/>
   </a>
 </p>
