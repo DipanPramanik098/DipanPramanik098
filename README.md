@@ -3,7 +3,7 @@
   <i><b>“Passionate about turning ideas into scalable software, solving problems, and contributing to impactful open source projects.”</b></i>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=00F7FF&width=600&height=50&lines=Full+Stack+Web+Developer;DSA+Enthusiast;Tech+Explorer;Lifelong+Learner" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=00F7FF&width=600&height=50&lines=aspiring+Full+Stack+Web+Developer;DSA+Enthusiast;Tech+Explorer;Lifelong+Learner" alt="Typing Animation">
 </p>
 
 <table>
