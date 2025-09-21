@@ -102,6 +102,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanpramanik098&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
+
+## 📊 LeetCode Profile Insights  
+
+<p align="center" style="background-color:#000000; padding: 20px; border-radius: 10px;">
+  <a href="https://leetcode.com/u/_Dipan_/">
+    <img width="80%" src="https://leetcard.jacoblin.cool/_Dipan_?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
