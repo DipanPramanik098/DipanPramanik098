@@ -91,16 +91,30 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
+  <!-- Streak Stats -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dipanpramanik098&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dipanpramanik098&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=DipanPramanik098&theme=radical&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanpramanik098&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
+
+<p align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=DipanPramanik098&theme=radical&no-frame=true&margin-w=5&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DipanPramanik098&theme=radical&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 
 
 ## 📊 LeetCode Profile Insights  
