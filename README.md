@@ -19,7 +19,7 @@
 | | |
 |---|---|
 | 🎓 | **B.Tech CSE** — Netaji Subhash Engineering College, Kolkata *(Final Year)* |
-| 💼 | Building **[AlgoAdda](https://github.com/DipanPramanik098)** — a full-stack LeetCode-style coding platform |
+| 💼 | Building **[AlgoAdda](https://github.com/DipanPramanik098/AlgoAdda--AI-Powered-Coding-Platform)** — a full-stack LeetCode-style coding platform |
 | 🛠️ | Stack: React · Redux · Node.js · Express · MongoDB · deployed on Vercel & Render |
 | 🌱 | Currently deepening: **Backend Architecture**, **System Design**, **Machine Learning** |
 | 🧩 | Active on LeetCode · GFG · Coding Ninjas · InterviewBit |
