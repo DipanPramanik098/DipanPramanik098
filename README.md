@@ -41,7 +41,7 @@
   <a href="https://dipan-pramanik.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge" alt="Portfolio"/>
   </a>
-  <a href="https://drive.google.com/file/d/1b4eM5k97p492RSMoxSwq5cR7SjeHIvpr/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1Awr12XjJELs7FMEsBWmebYye5zSoaMJW/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄 Resume-4285F4?style=for-the-badge" alt="Resume"/>
   </a>
   <a href="https://www.linkedin.com/in/dipan-pramanik-3b929a25b/" target="_blank">
@@ -188,7 +188,7 @@
 
 <p align="center">
   <a href="https://dipan-pramanik.vercel.app/" target="_blank">🌐 Portfolio</a> •
-  <a href="https://drive.google.com/file/d/1b4eM5k97p492RSMoxSwq5cR7SjeHIvpr/view?usp=drive_link" target="_blank">📄 Resume</a>
+  <a href="https://drive.google.com/file/d/1Awr12XjJELs7FMEsBWmebYye5zSoaMJW/view?usp=sharing" target="_blank">📄 Resume</a>
 </p>
 
 ---
