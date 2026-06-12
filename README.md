@@ -38,7 +38,7 @@
 ## 🔗 Quick Links
 
 <p align="center">
-  <a href="https://my-portfolio-git-main-dipan-pramaniks-projects.vercel.app/" target="_blank">
+  <a href="https://vercel.com/dipan-pramaniks-projects/dipan-pramanik" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="https://drive.google.com/file/d/1b4eM5k97p492RSMoxSwq5cR7SjeHIvpr/view?usp=drive_link" target="_blank">
@@ -187,7 +187,7 @@
 </p>
 
 <p align="center">
-  <a href="https://my-portfolio-git-main-dipan-pramaniks-projects.vercel.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://vercel.com/dipan-pramaniks-projects/dipan-pramanik" target="_blank">🌐 Portfolio</a> •
   <a href="https://drive.google.com/file/d/1b4eM5k97p492RSMoxSwq5cR7SjeHIvpr/view?usp=drive_link" target="_blank">📄 Resume</a>
 </p>
 
